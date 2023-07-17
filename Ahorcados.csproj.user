@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="gano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mensajerobot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Niveles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrimerNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SegundoNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
